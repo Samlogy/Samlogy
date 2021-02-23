@@ -17,10 +17,10 @@
 <br />
 
 ## Why you should like Samlogy
-- ✒️ We provide the best solution to your problem.
-- ⚡ We give you an example of each article.
+- ✒️ I provide the best solution to your problem.
+- ⚡ I give you an example of each article.
 - 📦 Provide an example source code for you to download.
-- ⛹️‍♀️ We offer live demos where you can play with them.
+- ⛹️‍♀️ I offer live demos where you can play with them.
 - 💬 Quick answers to your questions via email or comment.
 
 <br />
