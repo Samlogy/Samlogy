@@ -8,7 +8,6 @@
     <img src="https://komarev.com/ghpvc/?username=samlogy&label=Views&color=blue&style=flat" alt="Views" />
     <img src="https://img.shields.io/github/stars/samlogy" alt="Stars Badge" />
     <img src="https://img.shields.io/github/followers/samlogy" alt="Followers" />
-    [![GitHub followers](https://img.shields.io/github/followers/samlogy.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/samlogy?tab=followers)
 </div>
 <br />
 
