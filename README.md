@@ -8,20 +8,25 @@
     <img src="https://komarev.com/ghpvc/?username=samlogy&label=Views&color=blue&style=flat" alt="Views" />
     <img src="https://img.shields.io/github/stars/samlogy" alt="Stars Badge" />
     <img src="https://img.shields.io/github/followers/samlogy" alt="Followers" />
+    [![GitHub followers](https://img.shields.io/github/followers/samlogy.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/samlogy?tab=followers)
 </div>
 <br />
 
-<h3 align="center"> 
- I am just a Web developper, i'm also interessed in teaching concepts and leading projects by the way i find that design is the real deal 
-</h3>
+<h3 align="center"> My name is Senani Samy and i am a Software Developper  </h3>
+<p> I have recently migrated from LAMP Stack to MERN Stack seeking for more scalability and reusability in a order to provide a better experience for clients
+</p>
 <br />
 
-## Why you should like Samlogy
-- ✒️ I provide the best solution to your problem.
-- ⚡ I give you an example of each article.
-- 📦 Provide an example source code for you to download.
-- ⛹️‍♀️ I offer live demos where you can play with them.
-- 💬 Quick answers to your questions via email or comment.
+<p> I'm actually working on Full Stack Web app using MERN Stack <i> Blog with Book Summaries </i> as core idea behind the project </p>
+<p> This app will have a most relevant features to list only a few of them: </p>
+<ul>
+    <li> Login - register & logout using OAuth v2 </li>
+    <li> Google Map API for geo-localisation </li>
+    <li> Google Analytics (tracks app to provide useful statistics) </li>
+    <li> Secured Payment using Stripe.js </li>
+    <li> Responsive & friend User Interface </li>
+    <li> And Much more ... </li>
+</ul>
 
 <br />
 
