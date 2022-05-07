@@ -6,7 +6,8 @@
 - i'm currently learning everything related to web tech 🤣
 - i'm looking forward to work / collaborate on freelance projects
 - fun fact: i love to draw and play guitar and piano lover 😻
-  <br />
+
+<br />
 
 ### Languages and Tools:
 
@@ -30,9 +31,9 @@
 ### Connect with me:
 
 <div align="center">
-<img alt="Samy's Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-<img alt="Samy's Github" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
-<!-- <img alt="Samy's Youtube" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /> -->
+    <img alt="Samy's Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+    <img alt="Samy's Github" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+    <!-- <img alt="Samy's Youtube" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/telegram/telegram.png" /> -->
 </div>
 
 <!-- <a href="https://t.me/cluemediator">
@@ -41,13 +42,13 @@
 
 <br />
 
-<div align="center">
+<!-- <div align="center">
     <a href="https://github.com/cluemediator">
         <img align="center"
             src="https://github-readme-stats.vercel.app/api?username=cluemediator&show_icons=true&theme=dracula&line_height=27"
             alt="Samy's GitHub Stats" />
     </a>
-</div>
+</div> -->
 
 <br />
 
@@ -58,12 +59,7 @@
 </div> -->
 
 <div align="center">
-
-### Show some ❤️ by starring ⭐ some of the repositories 📘
-
-<br />
-
-📫 How to reach me: You can leave an issue on most recent project or more simpler way: emailing me --> senanisammy@gmail.com.
-
+    ### Show some ❤️ by starring ⭐ some of the repositories 📘
+    <br />
+    📫 How to reach me: You can leave an issue on most recent project or more simpler way: emailing me --> senanisammy@gmail.com.
 </div>
-<br />
