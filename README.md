@@ -58,8 +58,8 @@
     </a>
 </div> -->
 
-<div align="center">
-    ### Show some ❤️ by starring ⭐ some of the repositories 📘
+<div align="center" justify="center">
+   Show some ❤️ by starring ⭐ some of the repositories 📘
     <br />
     📫 How to reach me: You can leave an issue on most recent project or more simpler way: emailing me --> senanisammy@gmail.com.
 </div>
