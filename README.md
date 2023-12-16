@@ -1,9 +1,9 @@
 ### Hi there 👋, Samy here !
 
-## I'm Software Developer and Teacher
+## I'm Software Engineer and Teacher
 
 - i'm currently working as a freelancer 🔭
-- i'm currently learning everything related to web tech 🤣
+- i'm still learning in this long journey called engineering 
 - i'm looking forward to work / collaborate on freelance projects
 - fun fact: i love to draw and play guitar and piano lover 😻
 
